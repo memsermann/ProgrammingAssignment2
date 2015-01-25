@@ -1,4 +1,4 @@
-## Programming Assignment 2 - Coursera R Programming - Jan 2014
+## Programming Assignment 2 - Coursera R Programming - Jan 2015
 
 ## Below are two functions that are used to create a list that stores a matrix
 ## and cache's its inverse.
